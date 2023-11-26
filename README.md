@@ -13,3 +13,6 @@ Berikut kriteria submission yang harus di penuhi:
 - Program dikerjakan pada Google Colaboratory.
 - Akurasi dari model minimal 85%.
 - Dapat memprediksi gambar yang diunggah ke Colab seperti gambar di bawah.
+<img width="307" alt="download" src="https://github.com/fajarkrna/klasifikasi-gambar-rockpaperscissor/assets/148789830/941f13ae-9bce-4ca3-a331-dcf2ecd48ab3">
+
+- Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
